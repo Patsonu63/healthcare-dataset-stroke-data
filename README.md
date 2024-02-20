@@ -7,3 +7,5 @@ About the Data:
 Each row in the data provides relavant information about a person , for instance; age, gender,smoking status, occurance of stroke in addition to other information
 Unknown in Smoking status means the information is unavailable.
 N/A in other input fields imply that it is not applicable.
+![Uploading dataset-cover (1).jpg…]()
+
